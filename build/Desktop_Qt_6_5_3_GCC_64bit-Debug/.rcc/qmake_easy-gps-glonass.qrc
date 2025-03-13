@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/easy-gps-glonass">
+    <file alias="qmldir">/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/easy-gps-glonass/qmldir</file>
+  </qresource>
+</RCC>
+

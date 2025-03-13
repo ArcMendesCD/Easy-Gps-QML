@@ -1,0 +1,15 @@
+-rootPath
+/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass
+-cmake-output
+-output-file
+/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appeasy-gps-glonass.cmake
+-importPath
+/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/easy-gps-glonass
+-importPath
+/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/home/andreimendes/Qt/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_easy-gps-glonass.qrc
+/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/appeasy-gps-glonass_raw_qml_0.qrc
+/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/planemarker.qrc

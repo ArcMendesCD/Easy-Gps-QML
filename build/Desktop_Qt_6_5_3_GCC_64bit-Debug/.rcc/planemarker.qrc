@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Res">
+    <file alias="resources/plane-marker.png">/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/resources/plane-marker.png</file>
+  </qresource>
+</RCC>
+

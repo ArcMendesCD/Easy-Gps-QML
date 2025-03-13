@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-062e65f6c39da23fcdb0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "easy-gps-glonass",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-9d03c00df286142b175a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-716e38e8b2101b718086.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-8f05ecc2ce00628fd897.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-db1d031bd140dbd6bf84.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass-Debug-181074d362d87ac12700.json",
+					"name" : "appeasy-gps-glonass",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_autogen-Debug-f7393e03c529717af253.json",
+					"name" : "appeasy-gps-glonass_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_autogen_timestamp_deps-Debug-d2e23a45c295e136bee8.json",
+					"name" : "appeasy-gps-glonass_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_automoc_json_extraction-Debug-db69d79805141834f4d0.json",
+					"name" : "appeasy-gps-glonass_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_qmlimportscan-Debug-5f749da362e63775cf70.json",
+					"name" : "appeasy-gps-glonass_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_qmllint-Debug-6188e8bfc83f43174b05.json",
+					"name" : "appeasy-gps-glonass_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_qmllint_json-Debug-4d7b897873c1c6e2fcad.json",
+					"name" : "appeasy-gps-glonass_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_qmllint_module-Debug-96cda22253853dae165e.json",
+					"name" : "appeasy-gps-glonass_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_qmltyperegistration-Debug-b3c7483744b0293d27f9.json",
+					"name" : "appeasy-gps-glonass_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appeasy-gps-glonass_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appeasy-gps-glonass_tooling-Debug-631282225be1cf61c572.json",
+					"name" : "appeasy-gps-glonass_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

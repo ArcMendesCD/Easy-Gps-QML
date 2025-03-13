@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/easy-gps-glonass/">
+    <file alias="Main.qml">/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/Main.qml</file>
+    <file alias="planemarker.qrc">/home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/planemarker.qrc</file>
+  </qresource>
+</RCC>
+

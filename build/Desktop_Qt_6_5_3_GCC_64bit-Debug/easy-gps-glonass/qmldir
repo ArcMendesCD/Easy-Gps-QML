@@ -1,0 +1,5 @@
+module easy-gps-glonass
+typeinfo appeasy-gps-glonass.qmltypes
+prefer :/qt/qml/easy-gps-glonass/
+Main 1.0 Main.qml
+

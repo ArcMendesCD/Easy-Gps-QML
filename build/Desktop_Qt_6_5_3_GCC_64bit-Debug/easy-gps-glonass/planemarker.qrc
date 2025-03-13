@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Res">
+        <file>resources/plane-marker.png</file>
+    </qresource>
+</RCC>
