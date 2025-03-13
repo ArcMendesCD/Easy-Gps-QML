@@ -424,4 +424,8 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlregistration.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQmlIntegration/qqmlintegration.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlerror.h \
-  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlabstracturlinterceptor.h
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlabstracturlinterceptor.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/QQmlContext \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlcontext.h \
+  /home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/Coordinates.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/QObject

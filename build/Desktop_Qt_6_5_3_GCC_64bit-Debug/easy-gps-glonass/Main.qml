@@ -2,13 +2,13 @@ import QtQuick
 import QtLocation
 import QtPositioning
 import QtQuick.Controls
-
+import com.easygps.coordinates 0.1
 
 Window {
     width: 840
     height: 640
     visible: true
-    title: qsTr("Universal Navigation System")
+    title: qsTr("easy gps")
 
 
     Plugin {
@@ -16,7 +16,11 @@ Window {
         name: "osm"
     }
 
-
+    Coordinates {
+        id: myCoordinates
+        latitude: -22.22
+        longitude: -49.94
+    }
 
     Column {
         id:column
@@ -25,22 +29,17 @@ Window {
         anchors.centerIn: parent
 
         Map {
-                property var PositionCoordinates: new Object({latitude, longitude})
-                Component.Ready: {
-                    PositionCoordinates.latitude = -22.22;
-                    PositionCoordinates.longitude = -49.94;
-                }
 
                 id: map
                 anchors.fill: parent
                 plugin: mapPlugin
-                center: QtPositioning.coordinate(59.91, 10.75) // Marilia
+                center: QtPositioning.coordinate(myCoordinates.latitude, myCoordinates.longitude) // Marilia - agr sim
                 zoomLevel: 14
                 property geoCoordinate startCentroid
 
                 MapQuickItem {
                         id: myPlane
-                        coordinate: QtPositioning.coordinate(PositionCoordinates.latitude, PositionCoordinates.longitude)
+                        coordinate: QtPositioning.coordinate(myCoordinates.latitude, myCoordinates.longitude)
                         anchorPoint.x: planeImage.width / 2
                         anchorPoint.y: planeImage.height / 2
 

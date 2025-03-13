@@ -16,6 +16,12 @@ Window {
         name: "osm"
     }
 
+    Coordinates {
+        id: myCoordinates
+        latitude: -22.22
+        longitude: -49.94
+    }
+
     Column {
         id:column
         width: 800
@@ -23,22 +29,17 @@ Window {
         anchors.centerIn: parent
 
         Map {
-                property var PositionCoordinates: ({latitude, longitude})
-                Component.Ready: {
-                    PositionCoordinates.latitude = -22.22;
-                    PositionCoordinates.longitude = -49.94;
-                }
 
                 id: map
                 anchors.fill: parent
                 plugin: mapPlugin
-                center: QtPositioning.coordinate(59.91, 10.75) // Marilia
+                center: QtPositioning.coordinate(myCoordinates.latitude, myCoordinates.longitude) // Marilia - agr sim
                 zoomLevel: 14
                 property geoCoordinate startCentroid
 
                 MapQuickItem {
                         id: myPlane
-                        coordinate: QtPositioning.coordinate(PositionCoordinates.latitude, PositionCoordinates.longitude)
+                        coordinate: QtPositioning.coordinate(myCoordinates.latitude, myCoordinates.longitude)
                         anchorPoint.x: planeImage.width / 2
                         anchorPoint.y: planeImage.height / 2
 
