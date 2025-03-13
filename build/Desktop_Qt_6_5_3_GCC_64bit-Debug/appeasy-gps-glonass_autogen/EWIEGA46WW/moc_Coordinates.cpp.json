@@ -1,0 +1,61 @@
+{
+    "classes": [
+        {
+            "className": "Coordinates",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "latitude",
+                    "notify": "latitudeChanged",
+                    "read": "latitude",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setLatitude"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "longitude",
+                    "notify": "longitudeChanged",
+                    "read": "longitude",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false,
+                    "write": "setLongitude"
+                }
+            ],
+            "qualifiedClassName": "Coordinates",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "latitudeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "longitudeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "Coordinates.h",
+    "outputRevision": 68
+}
