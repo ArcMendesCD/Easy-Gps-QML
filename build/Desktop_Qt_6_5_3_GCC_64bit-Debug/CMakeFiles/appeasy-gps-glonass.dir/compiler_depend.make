@@ -942,7 +942,381 @@ appeasy-gps-glonass_autogen/timestamp: /home/andreimendes/Documents/Dev/avionics
   /usr/share/cmake-3.28/Modules/Platform/Linux.cmake \
   /usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake
 
-CMakeFiles/appeasy-gps-glonass.dir/appeasy-gps-glonass_autogen/mocs_compilation.cpp.o: appeasy-gps-glonass_autogen/mocs_compilation.cpp
+CMakeFiles/appeasy-gps-glonass.dir/appeasy-gps-glonass_autogen/mocs_compilation.cpp.o: appeasy-gps-glonass_autogen/mocs_compilation.cpp \
+  /include/c++/13/algorithm \
+  /include/c++/13/array \
+  /include/c++/13/atomic \
+  /include/c++/13/backward/auto_ptr.h \
+  /include/c++/13/backward/binders.h \
+  /include/c++/13/bit \
+  /include/c++/13/bits/algorithmfwd.h \
+  /include/c++/13/bits/align.h \
+  /include/c++/13/bits/alloc_traits.h \
+  /include/c++/13/bits/allocated_ptr.h \
+  /include/c++/13/bits/allocator.h \
+  /include/c++/13/bits/atomic_base.h \
+  /include/c++/13/bits/atomic_lockfree_defines.h \
+  /include/c++/13/bits/basic_string.h \
+  /include/c++/13/bits/basic_string.tcc \
+  /include/c++/13/bits/char_traits.h \
+  /include/c++/13/bits/charconv.h \
+  /include/c++/13/bits/chrono.h \
+  /include/c++/13/bits/concept_check.h \
+  /include/c++/13/bits/cpp_type_traits.h \
+  /include/c++/13/bits/cxxabi_forced.h \
+  /include/c++/13/bits/cxxabi_init_exception.h \
+  /include/c++/13/bits/enable_special_members.h \
+  /include/c++/13/bits/erase_if.h \
+  /include/c++/13/bits/exception.h \
+  /include/c++/13/bits/exception_defines.h \
+  /include/c++/13/bits/exception_ptr.h \
+  /include/c++/13/bits/functexcept.h \
+  /include/c++/13/bits/functional_hash.h \
+  /include/c++/13/bits/hash_bytes.h \
+  /include/c++/13/bits/hashtable.h \
+  /include/c++/13/bits/hashtable_policy.h \
+  /include/c++/13/bits/invoke.h \
+  /include/c++/13/bits/ios_base.h \
+  /include/c++/13/bits/list.tcc \
+  /include/c++/13/bits/locale_classes.h \
+  /include/c++/13/bits/locale_classes.tcc \
+  /include/c++/13/bits/localefwd.h \
+  /include/c++/13/bits/memory_resource.h \
+  /include/c++/13/bits/memoryfwd.h \
+  /include/c++/13/bits/move.h \
+  /include/c++/13/bits/nested_exception.h \
+  /include/c++/13/bits/new_allocator.h \
+  /include/c++/13/bits/node_handle.h \
+  /include/c++/13/bits/ostream_insert.h \
+  /include/c++/13/bits/parse_numbers.h \
+  /include/c++/13/bits/postypes.h \
+  /include/c++/13/bits/predefined_ops.h \
+  /include/c++/13/bits/ptr_traits.h \
+  /include/c++/13/bits/range_access.h \
+  /include/c++/13/bits/refwrap.h \
+  /include/c++/13/bits/requires_hosted.h \
+  /include/c++/13/bits/shared_ptr.h \
+  /include/c++/13/bits/shared_ptr_atomic.h \
+  /include/c++/13/bits/shared_ptr_base.h \
+  /include/c++/13/bits/specfun.h \
+  /include/c++/13/bits/std_abs.h \
+  /include/c++/13/bits/std_function.h \
+  /include/c++/13/bits/stl_algo.h \
+  /include/c++/13/bits/stl_algobase.h \
+  /include/c++/13/bits/stl_bvector.h \
+  /include/c++/13/bits/stl_construct.h \
+  /include/c++/13/bits/stl_function.h \
+  /include/c++/13/bits/stl_heap.h \
+  /include/c++/13/bits/stl_iterator.h \
+  /include/c++/13/bits/stl_iterator_base_funcs.h \
+  /include/c++/13/bits/stl_iterator_base_types.h \
+  /include/c++/13/bits/stl_list.h \
+  /include/c++/13/bits/stl_map.h \
+  /include/c++/13/bits/stl_multimap.h \
+  /include/c++/13/bits/stl_numeric.h \
+  /include/c++/13/bits/stl_pair.h \
+  /include/c++/13/bits/stl_raw_storage_iter.h \
+  /include/c++/13/bits/stl_relops.h \
+  /include/c++/13/bits/stl_tempbuf.h \
+  /include/c++/13/bits/stl_tree.h \
+  /include/c++/13/bits/stl_uninitialized.h \
+  /include/c++/13/bits/stl_vector.h \
+  /include/c++/13/bits/stream_iterator.h \
+  /include/c++/13/bits/streambuf.tcc \
+  /include/c++/13/bits/streambuf_iterator.h \
+  /include/c++/13/bits/string_view.tcc \
+  /include/c++/13/bits/stringfwd.h \
+  /include/c++/13/bits/uniform_int_dist.h \
+  /include/c++/13/bits/unique_ptr.h \
+  /include/c++/13/bits/unordered_map.h \
+  /include/c++/13/bits/uses_allocator.h \
+  /include/c++/13/bits/uses_allocator_args.h \
+  /include/c++/13/bits/utility.h \
+  /include/c++/13/bits/vector.tcc \
+  /include/c++/13/cctype \
+  /include/c++/13/cerrno \
+  /include/c++/13/chrono \
+  /include/c++/13/clocale \
+  /include/c++/13/cmath \
+  /include/c++/13/compare \
+  /include/c++/13/cstddef \
+  /include/c++/13/cstdint \
+  /include/c++/13/cstdio \
+  /include/c++/13/cstdlib \
+  /include/c++/13/cstring \
+  /include/c++/13/ctime \
+  /include/c++/13/cwchar \
+  /include/c++/13/debug/assertions.h \
+  /include/c++/13/debug/debug.h \
+  /include/c++/13/exception \
+  /include/c++/13/ext/aligned_buffer.h \
+  /include/c++/13/ext/alloc_traits.h \
+  /include/c++/13/ext/atomicity.h \
+  /include/c++/13/ext/concurrence.h \
+  /include/c++/13/ext/numeric_traits.h \
+  /include/c++/13/ext/string_conversions.h \
+  /include/c++/13/ext/type_traits.h \
+  /include/c++/13/functional \
+  /include/c++/13/initializer_list \
+  /include/c++/13/iosfwd \
+  /include/c++/13/iterator \
+  /include/c++/13/limits \
+  /include/c++/13/list \
+  /include/c++/13/map \
+  /include/c++/13/memory \
+  /include/c++/13/new \
+  /include/c++/13/numeric \
+  /include/c++/13/optional \
+  /include/c++/13/pstl/execution_defs.h \
+  /include/c++/13/pstl/glue_algorithm_defs.h \
+  /include/c++/13/pstl/glue_memory_defs.h \
+  /include/c++/13/pstl/glue_numeric_defs.h \
+  /include/c++/13/pstl/pstl_config.h \
+  /include/c++/13/ratio \
+  /include/c++/13/stdexcept \
+  /include/c++/13/stdfloat \
+  /include/c++/13/stdlib.h \
+  /include/c++/13/streambuf \
+  /include/c++/13/string \
+  /include/c++/13/string_view \
+  /include/c++/13/system_error \
+  /include/c++/13/tr1/bessel_function.tcc \
+  /include/c++/13/tr1/beta_function.tcc \
+  /include/c++/13/tr1/ell_integral.tcc \
+  /include/c++/13/tr1/exp_integral.tcc \
+  /include/c++/13/tr1/gamma.tcc \
+  /include/c++/13/tr1/hypergeometric.tcc \
+  /include/c++/13/tr1/legendre_function.tcc \
+  /include/c++/13/tr1/modified_bessel_func.tcc \
+  /include/c++/13/tr1/poly_hermite.tcc \
+  /include/c++/13/tr1/poly_laguerre.tcc \
+  /include/c++/13/tr1/riemann_zeta.tcc \
+  /include/c++/13/tr1/special_function_util.h \
+  /include/c++/13/tuple \
+  /include/c++/13/type_traits \
+  /include/c++/13/typeinfo \
+  /include/c++/13/unordered_map \
+  /include/c++/13/utility \
+  /include/c++/13/variant \
+  /include/c++/13/vector \
+  /include/c++/13/version \
+  /include/x86_64-linux-gnu/c++/13/bits/atomic_word.h \
+  /include/x86_64-linux-gnu/c++/13/bits/c++allocator.h \
+  /include/x86_64-linux-gnu/c++/13/bits/c++config.h \
+  /include/x86_64-linux-gnu/c++/13/bits/c++locale.h \
+  /include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
+  /include/x86_64-linux-gnu/c++/13/bits/error_constants.h \
+  /include/x86_64-linux-gnu/c++/13/bits/gthr-default.h \
+  /include/x86_64-linux-gnu/c++/13/bits/gthr.h \
+  /include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
+  /home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/Coordinates.h \
+  appeasy-gps-glonass_autogen/EWIEGA46WW/moc_Coordinates.cpp \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/QObject \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/q20type_traits.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qalgorithms.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qanystringview.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qarraydata.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qarraydataops.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qarraydatapointer.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qassert.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qatomic.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qatomic_cxx11.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qbasicatomic.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qbindingstorage.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qbytearray.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qbytearrayalgorithms.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qbytearraylist.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qbytearrayview.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qchar.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qcompare.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qcompare_impl.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qcompilerdetection.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qconfig.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qconstructormacros.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qcontainerfwd.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qcontainerinfo.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qcontainertools_impl.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qdarwinhelpers.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qdatastream.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qexceptionhandling.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qflags.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qfloat16.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qforeach.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qfunctionpointer.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qgenericatomic.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qglobal.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qglobalstatic.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qhashfunctions.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qiodevicebase.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qiterable.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qiterator.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qlist.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qlogging.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qmalloc.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qmath.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qmetacontainer.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qmetatype.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qminmax.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qnamespace.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qnumeric.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qobject.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qobject_impl.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qobjectdefs.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qobjectdefs_impl.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qoverload.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qpair.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qprocessordetection.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qrefcount.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qscopedpointer.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qscopeguard.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstring.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringalgorithms.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringbuilder.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringfwd.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringlist.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringliteral.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringmatcher.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringtokenizer.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringview.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qswap.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qsysinfo.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qsystemdetection.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtaggedpointer.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtclasshelpermacros.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtconfigmacros.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtcore-config.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtcoreexports.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtdeprecationmarkers.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtenvironmentvariables.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtmetamacros.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtmochelpers.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtnoop.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtpreprocessorsupport.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtresource.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qttranslation.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qttypetraits.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtversion.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtversionchecks.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtypeinfo.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtypes.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qutf8stringview.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qversiontagging.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qxptype_traits.h \
+  /usr/include/alloca.h \
+  /usr/include/asm-generic/errno-base.h \
+  /usr/include/asm-generic/errno.h \
+  /usr/include/assert.h \
+  /usr/include/ctype.h \
+  /usr/include/endian.h \
+  /usr/include/errno.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/linux/errno.h \
+  /usr/include/locale.h \
+  /usr/include/math.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdint.h \
+  /usr/include/stdio.h \
+  /usr/include/stdlib.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/time.h \
+  /usr/include/wchar.h \
+  /usr/include/x86_64-linux-gnu/asm/errno.h \
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/cpu-set.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/errno.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+  /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+  /usr/include/x86_64-linux-gnu/bits/locale.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
+  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/sched.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/single_threaded.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stdarg___va_copy.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stdarg_va_arg.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stdarg_va_copy.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stdarg_va_list.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stddef_null.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stddef_nullptr_t.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stddef_offsetof.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stddef_size_t.h \
+  /usr/lib/llvm-18/lib/clang/18/include/__stddef_wchar_t.h \
+  /usr/lib/llvm-18/lib/clang/18/include/sanitizer/tsan_interface.h \
+  /usr/lib/llvm-18/lib/clang/18/include/stdarg.h \
+  /usr/lib/llvm-18/lib/clang/18/include/stdbool.h \
+  /usr/lib/llvm-18/lib/clang/18/include/stddef.h \
+  /usr/lib/llvm-18/lib/clang/18/include/stdint.h
 
 CMakeFiles/appeasy-gps-glonass.dir/appeasy-gps-glonass_qmltyperegistrations.cpp.o: appeasy-gps-glonass_qmltyperegistrations.cpp \
   /include/c++/13/algorithm \
@@ -2413,7 +2787,9 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: /home/andreimendes/Documents/Dev/
   /include/x86_64-linux-gnu/c++/13/bits/gthr-default.h \
   /include/x86_64-linux-gnu/c++/13/bits/gthr.h \
   /include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
+  /home/andreimendes/Documents/Dev/avionics-suite/easy-gps/easy-gps-glonass/Coordinates.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/QMetaType \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/QObject \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/q20memory.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/q20type_traits.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qalgorithms.h \
@@ -2545,6 +2921,7 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: /home/andreimendes/Documents/Dev/
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtNetwork/qtnetworkexports.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtNetwork/qtnetworkglobal.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/QQmlApplicationEngine \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/QQmlContext \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qjsengine.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qjsmanagedvalue.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qjsnumbercoercion.h \
@@ -2553,6 +2930,7 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: /home/andreimendes/Documents/Dev/
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqml.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlabstracturlinterceptor.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlapplicationengine.h \
+  /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlcontext.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmldebug.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlengine.h \
   /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlerror.h \
@@ -2784,17 +3162,67 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: /home/andreimendes/Documents/Dev/
 
 /include/c++/13/bits/random.h:
 
-/usr/lib/llvm-18/lib/clang/18/include/stdint.h:
-
-/usr/lib/llvm-18/lib/clang/18/include/sanitizer/tsan_interface.h:
-
 /usr/lib/llvm-18/lib/clang/18/include/limits.h:
 
 /usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
-/usr/include/x86_64-linux-gnu/bits/wchar.h:
-
 /usr/include/x86_64-linux-gnu/bits/uio_lim.h:
+
+/usr/include/linux/limits.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qtqml-config.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlregistration.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlpropertyvaluesource.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlprivate.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlparserstatus.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlmoduleregistration.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqml.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtNetwork/qtnetworkexports.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qversionnumber.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qvarlengtharray.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qvariant.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qurl.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtextstream.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringconverter_base.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qsharedpointer_impl.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qsharedpointer.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qpointer.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qmetaobject.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qdebug.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qcontiguouscache.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qshareddata_impl.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/q20memory.h:
+
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/QMetaType:
+
+appeasy-gps-glonass_qmltyperegistrations.cpp:
+
+/usr/lib/llvm-18/lib/clang/18/include/stdint.h:
+
+/usr/lib/llvm-18/lib/clang/18/include/sanitizer/tsan_interface.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
 
@@ -2852,8 +3280,6 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: /home/andreimendes/Documents/Dev/
 
 /usr/include/locale.h:
 
-/usr/include/linux/limits.h:
-
 /usr/include/linux/errno.h:
 
 /usr/include/ctype.h:
@@ -2861,50 +3287,6 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: /home/andreimendes/Documents/Dev/
 /usr/include/asm-generic/errno.h:
 
 /usr/include/asm-generic/errno-base.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qtqml-config.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlregistration.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlpropertyvaluesource.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlprivate.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlparserstatus.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqmlmoduleregistration.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qqml.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtNetwork/qtnetworkexports.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qversionnumber.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qvarlengtharray.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qvariant.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qurl.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtextstream.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qstringconverter_base.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qsharedpointer_impl.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qsharedpointer.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qpointer.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qmetaobject.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qdebug.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qcontiguouscache.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qshareddata_impl.h:
-
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/q20memory.h:
 
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dhelpersimplpluginTargets.cmake:
 
@@ -2958,9 +3340,9 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: /home/andreimendes/Documents/Dev/
 
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfig.cmake:
 
-/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
-
 /home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/qjsvalue.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Qml/Qt6QQmlDebugServerFactoryPluginTargets-relwithdebinfo.cmake:
 
@@ -3669,6 +4051,8 @@ CMakeFiles/appeasy-gps-glonass.dir/main.cpp.o: /home/andreimendes/Documents/Dev/
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake:
 
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:
+
+appeasy-gps-glonass_autogen/EWIEGA46WW/moc_Coordinates.cpp:
 
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:
 
@@ -4556,6 +4940,8 @@ CMakeFiles/3.28.3/CMakeCXXCompiler.cmake:
 
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginAdditionalTargetInfo.cmake:
 
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtQml/QQmlContext:
+
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets-relwithdebinfo.cmake:
 
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginConfig.cmake:
@@ -5022,8 +5408,6 @@ CMakeFiles/3.28.3/CMakeSystem.cmake:
 
 appeasy-gps-glonass_autogen/mocs_compilation.cpp:
 
-appeasy-gps-glonass_qmltyperegistrations.cpp:
-
 /include/c++/13/bits/align.h:
 
 /home/andreimendes/Qt/6.5.3/gcc_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets-relwithdebinfo.cmake:
@@ -5248,4 +5632,4 @@ appeasy-gps-glonass_qmltyperegistrations.cpp:
 
 /include/x86_64-linux-gnu/c++/13/bits/os_defines.h:
 
-/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/QMetaType:
+/home/andreimendes/Qt/6.5.3/gcc_64/include/QtCore/qtmochelpers.h:
